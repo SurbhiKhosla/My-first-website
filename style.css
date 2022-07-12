@@ -1,0 +1,69 @@
+a{
+  padding: 10px;
+}
+body{
+  text-align: center;
+  padding-top:30px;
+  padding-bottom:30px;
+  background:url("https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/india-tech-shutterstock.fw_-675x380.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+p{
+  text-align:center;
+
+}
+
+.row{
+  display: flex;
+  height: 88%;
+  align-items: center;
+}
+.col{
+  flex-basis: 50%;
+}
+h1{
+  color: #000000;
+  font-size: 100px;
+}
+button{
+  width: 180px;
+  color: #000;
+  font-size: 12px;
+  padding: 20px 0;
+  background: #fff;
+  border: 0;
+  border-radius: 20 px;
+  outline: none;
+  margin-top: 30px;
+}
+.card{
+  width: 200px;
+  height: 230px;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 15px 25px;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin: 10px 15px;
+
+  background-position: center;
+  background-position: cover;
+}
+
+.card1{  background-image: url("https://image.shutterstock.com/image-vector/om-symbol-vector-icon-sign-260nw-1251025393.jpg");
+}
+.card2{  background-image: url("https://image.shutterstock.com/image-vector/khanda-sikh-icon-isolated-on-260nw-728925307.jpg")}
+.card3{  background-image: url("https://image.shutterstock.com/image-vector/star-crescent-symbol-islam-flat-260nw-357085448.jpg");
+}
+.card4{  background-image: url("https://p.kindpng.com/picc/s/74-740461_christian-cross-png-cross-png-transparent-png.png");
+}
+
+.my_font_class{
+  font-family: 'Nunito', sans-serif;
+}
